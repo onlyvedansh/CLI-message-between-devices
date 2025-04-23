@@ -14,3 +14,6 @@ IF YOU ARE GETTING "nc not found" ERROR, install netcat using this command
 > sudo apt install netcat-openbsd
 
 3.success , you will now get the message in your target device from attacker device
+
+4.For your privacy , again turn on firewall manually
+> OR USE on.bat file
